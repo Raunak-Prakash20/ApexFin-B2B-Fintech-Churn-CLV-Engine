@@ -1,0 +1,58 @@
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# Distribution / packaging
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Environment variables & secrets (CRITICAL for Cloud Security)
+.env
+.env.local
+*.pem
+*.key
+credentials.json
+
+# Local databases & model weights
+*.db
+*.sqlite
+*.duckdb
+models/*.pkl
+models/*.joblib
+models/*.txt
+data/raw/*.csv
+data/processed/*.parquet
+
+# OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Testing & coverage
+.pytest_cache/
+.coverage
+htmlcov/
