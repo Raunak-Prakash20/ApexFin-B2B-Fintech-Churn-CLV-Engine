@@ -1,0 +1,174 @@
+[
+    {
+        "feature": "tx_count_30d",
+        "mean_abs_shap": 0.1023459652541276
+    },
+    {
+        "feature": "failed_tx_rate_30d",
+        "mean_abs_shap": 0.08888186490496361
+    },
+    {
+        "feature": "logins_30d",
+        "mean_abs_shap": 0.06877721247767588
+    },
+    {
+        "feature": "ach_vol_share_30d",
+        "mean_abs_shap": 0.014878205695552859
+    },
+    {
+        "feature": "tenure_days",
+        "mean_abs_shap": 0.014163486514006427
+    },
+    {
+        "feature": "current_balance_usd",
+        "mean_abs_shap": 0.009225109600405752
+    },
+    {
+        "feature": "tx_volume_30d",
+        "mean_abs_shap": 0.00023413348557351863
+    },
+    {
+        "feature": "avg_balance_30d",
+        "mean_abs_shap": 1.0303920607792336e-16
+    },
+    {
+        "feature": "logins_90d",
+        "mean_abs_shap": 0.0
+    },
+    {
+        "feature": "exports_30d",
+        "mean_abs_shap": 0.0
+    },
+    {
+        "feature": "days_since_last_api_call",
+        "mean_abs_shap": 0.0
+    },
+    {
+        "feature": "days_since_last_login",
+        "mean_abs_shap": 0.0
+    },
+    {
+        "feature": "telemetry_velocity_ratio",
+        "mean_abs_shap": 0.0
+    },
+    {
+        "feature": "industry_Digital Media & Agency",
+        "mean_abs_shap": 0.0
+    },
+    {
+        "feature": "country_Germany",
+        "mean_abs_shap": 0.0
+    },
+    {
+        "feature": "country_Canada",
+        "mean_abs_shap": 0.0
+    },
+    {
+        "feature": "api_calls_90d",
+        "mean_abs_shap": 0.0
+    },
+    {
+        "feature": "industry_HealthTech",
+        "mean_abs_shap": 0.0
+    },
+    {
+        "feature": "industry_Logistics & Supply Chain",
+        "mean_abs_shap": 0.0
+    },
+    {
+        "feature": "company_size_Large Enterprise (500+)",
+        "mean_abs_shap": 0.0
+    },
+    {
+        "feature": "company_size_Mid-Market (21-100)",
+        "mean_abs_shap": 0.0
+    },
+    {
+        "feature": "country_United Kingdom",
+        "mean_abs_shap": 0.0
+    },
+    {
+        "feature": "company_size_Small (1-20)",
+        "mean_abs_shap": 0.0
+    },
+    {
+        "feature": "industry_E-Commerce",
+        "mean_abs_shap": 0.0
+    },
+    {
+        "feature": "avg_balance_90d",
+        "mean_abs_shap": 0.0
+    },
+    {
+        "feature": "api_calls_30d",
+        "mean_abs_shap": 0.0
+    },
+    {
+        "feature": "balance_decay_pct",
+        "mean_abs_shap": 0.0
+    },
+    {
+        "feature": "current_mrr",
+        "mean_abs_shap": 0.0
+    },
+    {
+        "feature": "take_rate_pct",
+        "mean_abs_shap": 0.0
+    },
+    {
+        "feature": "initial_deposit_usd",
+        "mean_abs_shap": 0.0
+    },
+    {
+        "feature": "tx_volume_90d",
+        "mean_abs_shap": 0.0
+    },
+    {
+        "feature": "tx_count_90d",
+        "mean_abs_shap": 0.0
+    },
+    {
+        "feature": "fees_collected_30d",
+        "mean_abs_shap": 0.0
+    },
+    {
+        "feature": "fees_collected_90d",
+        "mean_abs_shap": 0.0
+    },
+    {
+        "feature": "tx_volume_velocity_ratio",
+        "mean_abs_shap": 0.0
+    },
+    {
+        "feature": "card_vol_share_30d",
+        "mean_abs_shap": 0.0
+    },
+    {
+        "feature": "wire_vol_share_30d",
+        "mean_abs_shap": 0.0
+    },
+    {
+        "feature": "card_failure_rate_30d",
+        "mean_abs_shap": 0.0
+    },
+    {
+        "feature": "ach_failure_rate_30d",
+        "mean_abs_shap": 0.0
+    },
+    {
+        "feature": "wire_failure_rate_30d",
+        "mean_abs_shap": 0.0
+    },
+    {
+        "feature": "current_plan_id",
+        "mean_abs_shap": 0.0
+    },
+    {
+        "feature": "balance_volatility_30d",
+        "mean_abs_shap": 0.0
+    },
+    {
+        "feature": "country_United States",
+        "mean_abs_shap": 0.0
+    }
+]
